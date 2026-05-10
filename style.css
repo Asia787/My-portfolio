@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin: 0;
+}
+
+.card {
+  background: #111827;
+  padding: 20px;
+  margin: 15px auto;
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #38bdf8;
+}
+
+h1 {
+  color: #38bdf8;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 15px;
+  background: #38bdf8;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
